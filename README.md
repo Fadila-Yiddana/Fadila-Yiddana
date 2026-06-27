@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/github-banner.png" alt="Fadila Yiddana GitHub Banner" width="100%">
-</p>
+
 
 # Hi, I'm Fadila Yiddana 
 
