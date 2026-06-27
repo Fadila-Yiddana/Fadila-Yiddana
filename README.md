@@ -38,20 +38,26 @@ I completed AWS cloud training through AmaliTech Ghana, where I gained hands-on 
 
 ## Hands-On Experience
 
-Through AWS training and certification preparation, I completed hands-on labs and projects involving:
+Through hands-on cloud engineering training at AmaliTech Ghana, I have designed, deployed, and managed AWS infrastructure using the AWS Management Console, AWS CLI, AWS SDKs, and Terraform.
 
-- Amazon EC2
-- Amazon S3
-- IAM
-- VPC
-- Route 53
-- CloudWatch
-- AWS Backup
-- Disaster Recovery Solutions
-- Storage Solutions
-- Security Best Practices
+My practical experience includes working with:
 
-I continue to strengthen my practical skills through independent cloud and Terraform projects.
+* Amazon EC2
+* Amazon VPC
+* Amazon S3
+* Amazon Route 53
+* AWS Lambda
+* Amazon API Gateway
+* Amazon DynamoDB
+* Amazon CloudFront
+* IAM
+* Amazon CloudWatch
+* AWS Backup
+* High Availability and Disaster Recovery solutions
+* Infrastructure as Code (Terraform)
+
+I continue to strengthen these skills by building and publishing real-world cloud projects on GitHub.
+
 
 ## Featured Projects
 
