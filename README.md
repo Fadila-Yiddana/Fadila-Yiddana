@@ -1,158 +1,157 @@
+<p align="center">
+  <img src="images/github-banner.png" alt="Fadila Yiddana GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Fadila Yiddana 
 
-AWS Certified Solutions Architect – Associate with hands-on experience designing, deploying, and automating cloud infrastructure on Amazon Web Services (AWS).
+### AWS Certified Solutions Architect – Associate | Cloud Engineer | Terraform Enthusiast
 
-I completed cloud engineering training through **AmaliTech Ghana**, where I gained practical experience building and deploying cloud solutions using the AWS Management Console, AWS CLI, AWS SDKs, and Terraform.
+I'm passionate about designing secure, scalable, and highly available cloud infrastructure on Amazon Web Services (AWS).
 
-I enjoy designing secure, scalable, and highly available cloud architectures while continuously expanding my knowledge of Infrastructure as Code (IaC), automation, and DevOps.
+I completed cloud engineering training through **AmaliTech Ghana**, where I gained hands-on experience designing, deploying, and managing cloud solutions using the **AWS Management Console**, **AWS CLI**, **AWS SDKs**, and **Terraform** through practical labs and project-based learning.
 
----
-
-# AWS Certifications
-
-*  AWS Certified Solutions Architect – Associate
-*  AWS Certified AI Practitioner
-*  AWS Certified Cloud Practitioner
+Today, I continue building public cloud projects to strengthen my skills in **Infrastructure as Code (IaC)**, cloud architecture, automation, and DevOps while preparing for opportunities as a Cloud Engineer.
 
 ---
 
-# Technical Toolkit
+#  AWS Certifications
 
-###  Cloud Platform
+* AWS Certified Solutions Architect – Associate
+* AWS Certified AI Practitioner
+* AWS Certified Cloud Practitioner
+
+> *(Official certification badges will be added soon.)*
+
+---
+
+#  Technical Toolkit
+
+## Cloud Platform
 
 * Amazon Web Services (AWS)
 
-### Infrastructure as Code
+## Infrastructure as Code
 
 * Terraform
 
-### Programming & Scripting
+## Programming & Scripting
 
 * Python
 * Bash (Basic)
 
-### Version Control
+## Version Control
 
 * Git
 * GitHub
 
-### Operating Systems
+## Operating Systems
 
 * Linux
 
-### Core AWS Services
+---
+
+#  AWS Services
+
+### Compute
 
 * Amazon EC2
-* Amazon VPC
+* AWS Lambda
+* Auto Scaling
+
+### Storage
+
 * Amazon S3
+* AWS Backup
+
+### Networking
+
+* Amazon VPC
+* Amazon Route 53
 * Amazon CloudFront
 * Amazon API Gateway
-* AWS Lambda
+* Application Load Balancer (ALB)
+
+### Database
+
 * Amazon DynamoDB
+* Amazon RDS
+
+### Security
+
 * IAM
-* Amazon Route 53
+* Security Groups
+
+### Monitoring
+
 * Amazon CloudWatch
-* AWS Backup
 
 ---
 
-# Hands-On Experience
+#  Hands-On Experience
 
-During my cloud engineering training at **AmaliTech Ghana**, I designed, deployed, and managed AWS infrastructure through practical labs and real-world projects using:
+During my training at **AmaliTech Ghana**, I gained practical experience building and managing AWS solutions using:
 
 * AWS Management Console
 * AWS CLI
 * AWS SDKs
 * Terraform
 
-My hands-on experience includes:
+Hands-on activities included:
 
 * Designing highly available AWS architectures
 * Building serverless applications
 * Deploying static websites on AWS
 * Implementing Infrastructure as Code (Terraform)
-* Configuring networking with Amazon VPC
+* Configuring Amazon VPC networking
 * Managing IAM users, roles, and policies
 * Implementing storage, backup, and disaster recovery solutions
-* Monitoring AWS resources with Amazon CloudWatch
+* Monitoring infrastructure using Amazon CloudWatch
 
-I continue strengthening these skills by building and publishing cloud projects on GitHub.
-
----
-
-# Featured Projects
-
-### Terraform AWS Highly Available Three-Tier Architecture
-
-Enterprise-style AWS infrastructure demonstrating high availability, scalability, and Infrastructure as Code using Terraform.
-
-**Technologies**
-
-* Amazon VPC
-* EC2
-* Application Load Balancer
-* Auto Scaling
-* Amazon RDS
-* Terraform
+I continue expanding these skills by building and documenting cloud projects in public GitHub repositories.
 
 ---
 
-### Terraform AWS Serverless Web Application
+#  Featured Projects
 
-A fully serverless web application deployed with Terraform using:
-
-* Amazon S3
-* Amazon CloudFront
-* Amazon API Gateway
-* AWS Lambda
-* Amazon DynamoDB
-
----
-
-### Terraform AWS Visitor Counter
-
-A serverless visitor counter demonstrating cloud-native application design using:
-
-* Amazon S3
-* API Gateway
-* AWS Lambda
-* DynamoDB
-* CloudFront
-* Terraform
+| Project                                                        | Description                                                                                                                                         |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **Terraform AWS Highly Available Three-Tier Architecture** | Demonstrates a production-style AWS architecture with Amazon VPC, EC2, Application Load Balancer, Auto Scaling, Amazon RDS Multi-AZ, and Terraform. |
+|  **Terraform AWS Serverless Web Application**                 | End-to-end serverless web application using Amazon S3, CloudFront, API Gateway, Lambda, DynamoDB, and Terraform.                                    |
+|  **Terraform AWS Visitor Counter**                           | Cloud-native visitor counter built with Amazon S3, CloudFront, API Gateway, Lambda, DynamoDB, and Terraform.                                        |
+|  **Terraform AWS Static Website**                            | Static website hosting solution deployed with Amazon S3, CloudFront, and Terraform.                                                                 |
 
 ---
 
-### Terraform AWS Static Website
+#  Currently Learning
 
-Infrastructure as Code project for hosting a static website on AWS using Terraform and Amazon CloudFront.
-
----
-
-# Currently Learning
-
-* Advanced Terraform
-* DevOps Fundamentals
-* CI/CD Pipelines
+* Advanced Terraform Modules
+* CI/CD with GitHub Actions
 * Docker
 * Kubernetes
 * AWS Security Best Practices
+* DevOps Fundamentals
+* AWS Well-Architected Framework
 
 ---
 
-# Career Objective
+#  Career Objective
 
-I'm seeking opportunities as a:
+I'm currently seeking opportunities as a:
 
 * Cloud Engineer
 * Junior Cloud Architect
 * DevOps Engineer
 
-where I can contribute to cloud infrastructure projects while continuing to grow my technical expertise.
+where I can contribute to designing and automating secure, scalable cloud infrastructure while continuing to grow professionally.
 
 ---
 
-# Let's Connect
+#  Connect With Me
 
- LinkedIn
+**LinkedIn**
 
 [www.linkedin.com/in/fadila-yiddana](http://www.linkedin.com/in/fadila-yiddana)
+
+---
+
+ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and follow my cloud engineering journey.*
