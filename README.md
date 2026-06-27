@@ -18,7 +18,7 @@ I enjoy designing secure, scalable, and highly available cloud architectures whi
 
 # Technical Toolkit
 
-### ☁️ Cloud Platform
+###  Cloud Platform
 
 * Amazon Web Services (AWS)
 
