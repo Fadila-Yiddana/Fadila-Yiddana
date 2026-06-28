@@ -40,7 +40,7 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 </p>
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadila-Yiddana&theme=tokyo-night&hide_border=true" />
@@ -140,7 +140,7 @@ I continue expanding these skills by building and documenting cloud projects in 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Terraform AWS Highly Available Three-Tier Architecture
 
