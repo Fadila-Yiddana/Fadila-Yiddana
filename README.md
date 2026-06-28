@@ -3,6 +3,11 @@
 </p>
 
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Fadila-Yiddana&style=for-the-badge&color=blue" />
+</p>
+
+
 # Hi, I'm Fadila Yiddana 
 
 ### AWS Certified Solutions Architect – Associate | Cloud Engineer | Terraform Enthusiast
