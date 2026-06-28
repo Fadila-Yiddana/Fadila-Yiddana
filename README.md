@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="images/github-banner.png" alt="Fadila Yiddana | AWS Cloud Engineer" width="100%">
+</p>
 
 
 # Hi, I'm Fadila Yiddana 
@@ -12,13 +15,22 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 
 ---
 
-#  AWS Certifications
+#  ##  AWS Certifications
 
+<p align="center">
+  <img src="images/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="180"/>
+  &nbsp;&nbsp;
+  <img src="images/aws-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="180"/>
+  &nbsp;&nbsp;
+  <img src="images/aws-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="180"/>
+</p>
 
+<p align="center">
+  <strong>AWS Certified Cloud Practitioner</strong><br>
+  <strong>AWS Certified AI Practitioner</strong><br>
+  <strong>AWS Certified Solutions Architect – Associate</strong>
+</p>
 
-images/aws-ai-practitioner.png
-
-aws-cloud-practitioner.png
 
 ---
 
