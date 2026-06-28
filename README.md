@@ -22,6 +22,13 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 </p>
 
 
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fadila-Yiddana&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ---
 
 #    AWS Certifications
