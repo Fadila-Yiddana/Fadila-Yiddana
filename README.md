@@ -15,7 +15,7 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 
 ---
 
-#  ##  AWS Certifications
+#    AWS Certifications
 
 <p align="center">
   <img src="images/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="180"/>
