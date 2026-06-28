@@ -26,6 +26,12 @@ Today, I continue building public cloud projects to strengthen my skills in **In
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fadila-Yiddana&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+##  GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Fadila-Yiddana&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
 
 ##  GitHub Contribution Streak
 
