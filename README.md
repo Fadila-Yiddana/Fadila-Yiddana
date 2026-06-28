@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github-banner.png" alt="Fadila Yiddana | AWS Cloud Engineer" width="100%">
+  <img src="images/github-profile-banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 
