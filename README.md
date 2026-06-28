@@ -129,14 +129,90 @@ I continue expanding these skills by building and documenting cloud projects in 
 
 ---
 
-#  Featured Projects
+##  Featured Projects
 
-| Project                                                        | Description                                                                                                                                         |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  **Terraform AWS Highly Available Three-Tier Architecture** | Demonstrates a production-style AWS architecture with Amazon VPC, EC2, Application Load Balancer, Auto Scaling, Amazon RDS Multi-AZ, and Terraform. |
-|  **Terraform AWS Serverless Web Application**                 | End-to-end serverless web application using Amazon S3, CloudFront, API Gateway, Lambda, DynamoDB, and Terraform.                                    |
-|  **Terraform AWS Visitor Counter**                           | Cloud-native visitor counter built with Amazon S3, CloudFront, API Gateway, Lambda, DynamoDB, and Terraform.                                        |
-|  **Terraform AWS Static Website**                            | Static website hosting solution deployed with Amazon S3, CloudFront, and Terraform.                                                                 |
+###  Terraform AWS Highly Available Three-Tier Architecture
+
+**Enterprise-style AWS infrastructure deployed with Terraform following AWS Well-Architected best practices.**
+
+**Highlights**
+
+* Multi-AZ VPC architecture
+* Public and private subnet design
+* Application Load Balancer
+* Auto Scaling Group
+* Amazon RDS Multi-AZ
+* High Availability & Fault Tolerance
+
+**Technologies**
+
+`Terraform` `Amazon VPC` `EC2` `ALB` `Auto Scaling` `RDS` `CloudFront` `Route 53`
+
+🔗 Repository:
+https://github.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-architecture
+
+---
+
+###  Terraform AWS Serverless Web Application
+
+A production-style serverless application built using Terraform and AWS managed services.
+
+**Highlights**
+
+* Static website hosted on Amazon S3
+* Global content delivery with CloudFront
+* REST API using API Gateway
+* AWS Lambda backend
+* Amazon DynamoDB integration
+* Infrastructure as Code (Terraform)
+
+**Technologies**
+
+`Terraform` `Lambda` `API Gateway` `S3` `CloudFront` `DynamoDB`
+
+🔗 Repository:
+https://github.com/Fadila-Yiddana/terraform-aws-serverless-web-application
+
+---
+
+###  Terraform AWS Visitor Counter
+
+A cloud-native visitor counter application demonstrating serverless architecture on AWS.
+
+**Highlights**
+
+* API Gateway integration
+* Lambda visitor counter
+* DynamoDB persistence
+* CloudFront distribution
+* Terraform automation
+
+**Technologies**
+
+`Terraform` `Lambda` `API Gateway` `DynamoDB` `S3`
+
+🔗 Repository:
+https://github.com/Fadila-Yiddana/terraform-aws-visitor-counter
+
+---
+
+###  Terraform AWS Static Website
+
+Infrastructure as Code project for provisioning a static website hosted on AWS.
+
+**Highlights**
+
+* Amazon S3 static website hosting
+* CloudFront distribution
+* Terraform modules
+* Infrastructure automation
+
+**Technologies**
+
+`Terraform` `Amazon S3` `CloudFront`
+
+🔗 Repository:
+https://github.com/Fadila-Yiddana/terraform-aws-static-website
 
 ---
 
