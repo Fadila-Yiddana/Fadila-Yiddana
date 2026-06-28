@@ -14,11 +14,11 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 
 #  AWS Certifications
 
-* AWS Certified Solutions Architect – Associate
-* AWS Certified AI Practitioner
-* AWS Certified Cloud Practitioner
+aws-solutions-architect-associate.png
 
-> *(Official certification badges will be added soon.)*
+aws-ai-practitioner.png
+
+aws-cloud-practitioner.png
 
 ---
 
