@@ -140,91 +140,69 @@ I continue expanding these skills by building and documenting cloud projects in 
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  Terraform AWS Highly Available Three-Tier Architecture
+### Terraform AWS Highly Available Three-Tier Architecture
 
-**Enterprise-style AWS infrastructure deployed with Terraform following AWS Well-Architected best practices.**
+<p align="center">
+  <img src="images/three-tier.png" alt="Three-Tier Architecture" width="850">
+</p>
 
-**Highlights**
+Enterprise-grade AWS infrastructure demonstrating a highly available three-tier architecture using Terraform. The solution includes Amazon VPC, Multi-AZ networking, Application Load Balancer, Auto Scaling, Amazon RDS, Route 53, and CloudFront following AWS Well-Architected best practices.
 
-* Multi-AZ VPC architecture
-* Public and private subnet design
-* Application Load Balancer
-* Auto Scaling Group
-* Amazon RDS Multi-AZ
-* High Availability & Fault Tolerance
-
-**Technologies**
-
-`Terraform` `Amazon VPC` `EC2` `ALB` `Auto Scaling` `RDS` `CloudFront` `Route 53`
-
-🔗 Repository:
-https://github.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-architecture
+<p align="center">
+<a href="https://github.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-architecture">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-###  Terraform AWS Serverless Web Application
+### Terraform AWS Serverless Web Application
 
-A production-style serverless application built using Terraform and AWS managed services.
+<p align="center">
+  <img src="images/serverless-web-app.png" alt="Serverless Web Application" width="850">
+</p>
 
-**Highlights**
+A fully serverless web application provisioned with Terraform using Amazon S3, CloudFront, API Gateway, AWS Lambda, and Amazon DynamoDB. This project demonstrates Infrastructure as Code, cloud-native architecture, and scalable backend design.
 
-* Static website hosted on Amazon S3
-* Global content delivery with CloudFront
-* REST API using API Gateway
-* AWS Lambda backend
-* Amazon DynamoDB integration
-* Infrastructure as Code (Terraform)
-
-**Technologies**
-
-`Terraform` `Lambda` `API Gateway` `S3` `CloudFront` `DynamoDB`
-
-🔗 Repository:
-https://github.com/Fadila-Yiddana/terraform-aws-serverless-web-application
+<p align="center">
+<a href="https://github.com/Fadila-Yiddana/terraform-aws-serverless-web-application">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-###  Terraform AWS Visitor Counter
+### Terraform AWS Visitor Counter
 
-A cloud-native visitor counter application demonstrating serverless architecture on AWS.
+<p align="center">
+  <img src="images/visitor-counter.png" alt="Visitor Counter" width="850">
+</p>
 
-**Highlights**
+A serverless visitor counter application built with Terraform. Website requests flow through Amazon API Gateway and AWS Lambda, while visitor counts are stored in Amazon DynamoDB and delivered globally using Amazon CloudFront.
 
-* API Gateway integration
-* Lambda visitor counter
-* DynamoDB persistence
-* CloudFront distribution
-* Terraform automation
-
-**Technologies**
-
-`Terraform` `Lambda` `API Gateway` `DynamoDB` `S3`
-
-🔗 Repository:
-https://github.com/Fadila-Yiddana/terraform-aws-visitor-counter
+<p align="center">
+<a href="https://github.com/Fadila-Yiddana/terraform-aws-visitor-counter">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 
 ---
 
-###  Terraform AWS Static Website
+### Terraform AWS Static Website
 
-Infrastructure as Code project for provisioning a static website hosted on AWS.
+<p align="center">
+  <img src="images/static-website.png" alt="Static Website" width="850">
+</p>
 
-**Highlights**
+A beginner-friendly Infrastructure as Code project demonstrating how Terraform provisions an AWS static website using Amazon S3 and CloudFront while following cloud architecture best practices.
 
-* Amazon S3 static website hosting
-* CloudFront distribution
-* Terraform modules
-* Infrastructure automation
-
-**Technologies**
-
-`Terraform` `Amazon S3` `CloudFront`
-
-🔗 Repository:
-https://github.com/Fadila-Yiddana/terraform-aws-static-website
-
+<p align="center">
+<a href="https://github.com/Fadila-Yiddana/terraform-aws-static-website">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
 ---
 
 
