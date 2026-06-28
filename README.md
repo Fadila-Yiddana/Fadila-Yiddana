@@ -227,15 +227,19 @@ https://github.com/Fadila-Yiddana/terraform-aws-static-website
 
 ---
 
-#  Currently Learning
+
+##  Currently Learning
 
 * Advanced Terraform Modules
 * CI/CD with GitHub Actions
-* Docker
-* Kubernetes
-* AWS Security Best Practices
-* DevOps Fundamentals
-* AWS Well-Architected Framework
+* Docker Containers
+* Kubernetes Fundamentals
+* AWS DevOps Services
+* Infrastructure Automation
+* Monitoring & Observability
+
+
+
 
 ---
 
