@@ -29,7 +29,7 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 ##  GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Fadila-Yiddana&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fadila-Yiddana&theme=algolia&no-frame=true&margin-w=15&row=1&column=6" />
 </p>
 
 
