@@ -57,29 +57,14 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 
 ---
 
-#  Technical Toolkit
+##  Technical Toolkit
 
-## Cloud Platform
+<p align="center">
 
-* Amazon Web Services (AWS)
+<img src="https://skillicons.dev/icons?i=aws,terraform,python,bash,linux,git,github,docker,kubernetes,vscode" />
 
-## Infrastructure as Code
+</p>
 
-* Terraform
-
-## Programming & Scripting
-
-* Python
-* Bash (Basic)
-
-## Version Control
-
-* Git
-* GitHub
-
-## Operating Systems
-
-* Linux
 
 ---
 
