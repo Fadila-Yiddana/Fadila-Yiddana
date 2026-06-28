@@ -161,7 +161,7 @@ Enterprise-grade AWS infrastructure demonstrating a highly available three-tier 
 ### Terraform AWS Serverless Web Application
 
 <p align="center">
-  <img src="images/serverless-web-app.png" width="700">
+  <img src="images/serverless-web-app.png" width="650">
 </p>
 
 A fully serverless web application provisioned with Terraform using Amazon S3, CloudFront, API Gateway, AWS Lambda, and Amazon DynamoDB. This project demonstrates Infrastructure as Code, cloud-native architecture, and scalable backend design.
@@ -177,7 +177,7 @@ A fully serverless web application provisioned with Terraform using Amazon S3, C
 ### Terraform AWS Visitor Counter
 
 <p align="center">
-  <img src="images/visitor-counter.png" width="700">
+  <img src="images/visitor-counter.png" width="650">
 </p>
 
 A serverless visitor counter application built with Terraform. Website requests flow through Amazon API Gateway and AWS Lambda, while visitor counts are stored in Amazon DynamoDB and delivered globally using Amazon CloudFront.
@@ -193,7 +193,7 @@ A serverless visitor counter application built with Terraform. Website requests 
 ### Terraform AWS Static Website
 
 <p align="center">
-  <img src="images/static-website.png" width="700">
+  <img src="images/static-website.png" width="650">
 </p>
 
 A beginner-friendly Infrastructure as Code project demonstrating how Terraform provisions an AWS static website using Amazon S3 and CloudFront while following cloud architecture best practices.
