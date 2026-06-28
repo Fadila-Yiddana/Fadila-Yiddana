@@ -248,7 +248,7 @@ where I can contribute to designing and automating secure, scalable cloud infras
 <img src="https://img.shields.io/badge/LinkedIn-Fadila%20Yiddana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:dilayidd10@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
