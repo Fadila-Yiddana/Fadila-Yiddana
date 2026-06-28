@@ -240,11 +240,24 @@ where I can contribute to designing and automating secure, scalable cloud infras
 
 ---
 
-#  Connect With Me
+##  Let's Connect
 
-**LinkedIn**
+<p align="center">
 
-[www.linkedin.com/in/fadila-yiddana](http://www.linkedin.com/in/fadila-yiddana)
+<a href="https://www.linkedin.com/in/fadila-yiddana">
+<img src="https://img.shields.io/badge/LinkedIn-Fadila%20Yiddana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+Always open to opportunities in Cloud Engineering, Cloud Architecture, and DevOps.
+</p>
+
 
 ---
 
