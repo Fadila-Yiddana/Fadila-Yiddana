@@ -14,9 +14,9 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 
 #  AWS Certifications
 
-aws-solutions-architect-associate.png
 
-aws-ai-practitioner.png
+
+images/aws-ai-practitioner.png
 
 aws-cloud-practitioner.png
 
