@@ -14,7 +14,7 @@ I completed cloud engineering training through **AmaliTech Ghana**, where I gain
 Today, I continue building public cloud projects to strengthen my skills in **Infrastructure as Code (IaC)**, cloud architecture, automation, and DevOps while preparing for opportunities as a Cloud Engineer.
 
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Fadila-Yiddana&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -22,10 +22,17 @@ Today, I continue building public cloud projects to strengthen my skills in **In
 </p>
 
 
-## 🔥 GitHub Contribution Streak
+##  GitHub Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fadila-Yiddana&theme=tokyonight&hide_border=true" />
+</p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadila-Yiddana&theme=tokyo-night&hide_border=true" />
 </p>
 
 
