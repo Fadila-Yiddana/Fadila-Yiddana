@@ -131,15 +131,24 @@ I continue expanding these skills by building and documenting cloud projects in 
 ##  Featured Projects
 
 
-###  Terraform Secure S3 CI/CD Pipeline
+### Terraform Secure S3 CI/CD Pipeline
 
 Production-style CI/CD pipeline that provisions a secure Amazon S3 bucket using Terraform, GitHub Actions, Python, and AWS.
 
-<p align="center">
-  <a href="https://github.com/Fadila-Yiddana/terraform-secure-s3-cicd-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fadila-Yiddana&repo=terraform-secure-s3-cicd-pipeline&theme=tokyonight" />
-  </a>
-</p>
+<a href="https://github.com/Fadila-Yiddana/terraform-secure-s3-cicd-pipeline">
+  <img src="https://raw.githubusercontent.com/Fadila-Yiddana/terraform-secure-s3-cicd-pipeline/main/diagrams/terraform-cicd-architecture.png" width="850">
+</a>
+
+**Highlights**
+- Terraform
+- GitHub Actions CI/CD
+- Python Validation
+- AWS S3
+- Infrastructure as Code
+- Cloud Security
+
+➡️ Repository:
+https://github.com/Fadila-Yiddana/terraform-secure-s3-cicd-pipeline
 
 ### Terraform AWS Highly Available Three-Tier Architecture
 
