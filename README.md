@@ -10,13 +10,19 @@
 
 # Hi, I'm Fadila Yiddana 
 
-### AWS Certified Solutions Architect – Associate | Cloud Engineer | Terraform Enthusiast
+AWS Certified Solutions Architect – Associate | Cloud Engineer | Terraform Enthusiast
 
 I'm passionate about designing secure, scalable, and highly available cloud infrastructure on Amazon Web Services (AWS).
 
-I completed cloud engineering training through **AmaliTech Ghana**, where I gained hands-on experience designing, deploying, and managing cloud solutions using the **AWS Management Console**, **AWS CLI**, **AWS SDKs**, and **Terraform** through practical labs and project-based learning.
+I completed cloud engineering training through AmaliTech Ghana, where I gained hands-on experience designing, deploying, and managing cloud infrastructure using:
 
-Today, I continue building public cloud projects to strengthen my skills in **Infrastructure as Code (IaC)**, cloud architecture, automation, and DevOps while preparing for opportunities as a Cloud Engineer.
+- AWS Management Console
+- AWS CLI
+- AWS SDKs
+- Terraform
+- Python
+
+I enjoy building Infrastructure as Code (IaC), CI/CD automation, cloud security solutions, and documenting real-world AWS projects while continuously expanding my DevOps skills.
 
 
 
@@ -150,19 +156,30 @@ Production-style CI/CD pipeline that provisions a secure Amazon S3 bucket using 
 ➡️ Repository:
 https://github.com/Fadila-Yiddana/terraform-secure-s3-cicd-pipeline
 
-### Terraform AWS Highly Available Three-Tier Architecture
 
-<p align="center">
-  <img src="images/three-tier.png" alt="Three-Tier Architecture" width="850">
-</p>
+---
 
-Enterprise-grade AWS infrastructure demonstrating a highly available three-tier architecture using Terraform. The solution includes Amazon VPC, Multi-AZ networking, Application Load Balancer, Auto Scaling, Amazon RDS, Route 53, and CloudFront following AWS Well-Architected best practices.
+## Terraform AWS Highly Available Three-Tier Architecture
+
+Enterprise-style AWS infrastructure demonstrating a highly available three-tier architecture deployed across multiple Availability Zones using Terraform.
 
 <p align="center">
 <a href="https://github.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-architecture">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://raw.githubusercontent.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-architecture/main/diagrams/highly-available-three-tier-architecture.png" width="850">
 </a>
 </p>
+
+**Highlights**
+
+- Amazon VPC
+- Auto Scaling
+- Application Load Balancer
+- Amazon RDS Multi-AZ
+- Terraform
+- High Availability
+
+➡️ Repository:
+https://github.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-architecture
 
 ---
 
