@@ -22,6 +22,8 @@ I completed cloud engineering training through AmaliTech, where I gained hands-o
 * Python
 * Docker
 * Kubernetes
+
+  
 I enjoy building Infrastructure as Code (IaC), CI/CD automation, containerized application deployment, cloud security solutions, and documenting real-world AWS projects while continuously expanding my DevOps skills.
 
 
