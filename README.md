@@ -107,13 +107,13 @@ I enjoy building Infrastructure as Code (IaC), CI/CD automation, containerized a
 * Security Groups
 
 ### Containers & Orchestration
-Docker
-Kubernetes
-Docker Compose
+* Docker
+* Kubernetes
+* Docker Compose
 
 ### Monitoring & Observability
-Amazon CloudWatch
-Application health checks (liveness/readiness probes)
+* Amazon CloudWatch
+* Application health checks (liveness/readiness probes)
 
 ---
 
@@ -150,15 +150,20 @@ I continue expanding these skills by building and documenting cloud projects in 
 A RESTful CRUD API built with Python (FastAPI), containerized with Docker, and orchestrated with Kubernetes (via Kind), featuring health probes, load-balanced Services, and non-root container security.
 
 
-Highlights
+## Highlights**
 
-Docker
-Kubernetes
-FastAPI
-Python
-Container Security
-pytest
+- Docker
+- Kubernetes
+- FastAPI
+- Python
+- Container Security
+- pytest
+
+  
 ➡️ Repository: https://github.com/Fadila-Yiddana/docker-k8s-python-api
+
+
+---
 
 
 ### Terraform Secure S3 CI/CD Pipeline
