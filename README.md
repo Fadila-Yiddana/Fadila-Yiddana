@@ -8,21 +8,21 @@
 </p>
 
 
-# Hi, I'm Fadila Yiddana 
-
+# Hi, I'm Fadila Yiddana
 AWS Certified Solutions Architect – Associate | Cloud Engineer | Terraform Enthusiast
 
 I'm passionate about designing secure, scalable, and highly available cloud infrastructure on Amazon Web Services (AWS).
 
 I completed cloud engineering training through AmaliTech Ghana, where I gained hands-on experience designing, deploying, and managing cloud infrastructure using:
 
-- AWS Management Console
-- AWS CLI
-- AWS SDKs
-- Terraform
-- Python
-
-I enjoy building Infrastructure as Code (IaC), CI/CD automation, cloud security solutions, and documenting real-world AWS projects while continuously expanding my DevOps skills.
+AWS Management Console
+AWS CLI
+AWS SDKs
+Terraform
+Python
+Docker
+Kubernetes
+I enjoy building Infrastructure as Code (IaC), CI/CD automation, containerized application deployment, cloud security solutions, and documenting real-world AWS projects while continuously expanding my DevOps skills.
 
 
 
@@ -104,9 +104,14 @@ I enjoy building Infrastructure as Code (IaC), CI/CD automation, cloud security 
 * IAM
 * Security Groups
 
-### Monitoring
+### Containers & Orchestration
+Docker
+Kubernetes
+Docker Compose
 
-* Amazon CloudWatch
+### Monitoring & Observability
+Amazon CloudWatch
+Application health checks (liveness/readiness probes)
 
 ---
 
@@ -129,12 +134,29 @@ Hands-on activities included:
 * Managing IAM users, roles, and policies
 * Implementing storage, backup, and disaster recovery solutions
 * Monitoring infrastructure using Amazon CloudWatch
+* Containerizing applications with Docker, including image optimization and non-root security hardening
+* Orchestrating containerized applications with Kubernetes, including Deployments, Services, and health probes
 
 I continue expanding these skills by building and documenting cloud projects in public GitHub repositories.
 
 ---
 
 ##  Featured Projects
+
+
+## Containerized Python API on Kubernetes
+A RESTful CRUD API built with Python (FastAPI), containerized with Docker, and orchestrated with Kubernetes (via Kind), featuring health probes, load-balanced Services, and non-root container security.
+
+
+Highlights
+
+Docker
+Kubernetes
+FastAPI
+Python
+Container Security
+pytest
+➡️ Repository: https://github.com/Fadila-Yiddana/docker-k8s-python-api
 
 
 ### Terraform Secure S3 CI/CD Pipeline
@@ -228,20 +250,6 @@ A beginner-friendly Infrastructure as Code project demonstrating how Terraform p
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-
-
-
-##  Currently Learning
-
-* Advanced Terraform Modules
-* CI/CD with GitHub Actions
-* Docker Containers
-* Kubernetes Fundamentals
-* AWS DevOps Services
-* Infrastructure Automation
-* Monitoring & Observability
-
-
 
 
 ---
