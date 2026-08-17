@@ -119,7 +119,7 @@ I enjoy building Infrastructure as Code (IaC), CI/CD automation, containerized a
 
 #  Hands-On Experience
 
-During my training at **AmaliTech Ghana**, I gained practical experience building and managing AWS solutions using:
+During my training at **AmaliTech**, I gained practical experience building and managing AWS solutions using:
 
 * AWS Management Console
 * AWS CLI
