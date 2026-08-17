@@ -13,7 +13,7 @@ AWS Certified Solutions Architect – Associate | Cloud Engineer | Terraform Ent
 
 I'm passionate about designing secure, scalable, and highly available cloud infrastructure on Amazon Web Services (AWS).
 
-I completed cloud engineering training through AmaliTech Ghana, where I gained hands-on experience designing, deploying, and managing cloud infrastructure using:
+I completed cloud engineering training through AmaliTech, where I gained hands-on experience designing, deploying, and managing cloud infrastructure using:
 
 AWS Management Console
 AWS CLI
