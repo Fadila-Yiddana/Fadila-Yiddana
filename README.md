@@ -15,13 +15,13 @@ I'm passionate about designing secure, scalable, and highly available cloud infr
 
 I completed cloud engineering training through AmaliTech, where I gained hands-on experience designing, deploying, and managing cloud infrastructure using:
 
-AWS Management Console
-AWS CLI
-AWS SDKs
-Terraform
-Python
-Docker
-Kubernetes
+* AWS Management Console
+* AWS CLI
+* AWS SDKs
+* Terraform
+* Python
+* Docker
+* Kubernetes
 I enjoy building Infrastructure as Code (IaC), CI/CD automation, containerized application deployment, cloud security solutions, and documenting real-world AWS projects while continuously expanding my DevOps skills.
 
 
