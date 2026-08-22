@@ -149,6 +149,16 @@ I continue expanding these skills by building and documenting cloud projects in 
 ## Containerized Python API on Kubernetes
 A RESTful CRUD API built with Python (FastAPI), containerized with Docker, and orchestrated with Kubernetes (via Kind), featuring health probes, load-balanced Services, and non-root container security.
 
+```mermaid
+flowchart LR
+    Client([Client / Browser]) -->|HTTP| Service[Kubernetes Service<br/>NodePort]
+    Service --> Pod1[Pod: FastAPI App]
+    Service --> Pod2[Pod: FastAPI App]
+    Deployment[Kubernetes Deployment<br/>replicas: 4] -.manages.-> Pod1
+    Deployment -.manages.-> Pod2
+    Pod1 -->|/health probe| Kubelet[Liveness/Readiness Checks]
+    Pod2 -->|/health probe| Kubelet
+```
 
 ## Highlights**
 
@@ -212,22 +222,6 @@ https://github.com/Fadila-Yiddana/terraform-aws-highly-available-three-tier-arch
 
 ---
 
-### Terraform AWS Serverless Web Application
-
-<p align="center">
-  <img src="images/serverless-web-app.png" width="650">
-</p>
-
-A fully serverless web application provisioned with Terraform using Amazon S3, CloudFront, API Gateway, AWS Lambda, and Amazon DynamoDB. This project demonstrates Infrastructure as Code, cloud-native architecture, and scalable backend design.
-
-<p align="center">
-<a href="https://github.com/Fadila-Yiddana/terraform-aws-serverless-web-application">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
----
-
 ### Terraform AWS Visitor Counter
 
 <p align="center">
@@ -241,23 +235,6 @@ A serverless visitor counter application built with Terraform. Website requests 
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-
----
-
-### Terraform AWS Static Website
-
-<p align="center">
-  <img src="images/static-website.png" width="650">
-</p>
-
-A beginner-friendly Infrastructure as Code project demonstrating how Terraform provisions an AWS static website using Amazon S3 and CloudFront while following cloud architecture best practices.
-
-<p align="center">
-<a href="https://github.com/Fadila-Yiddana/terraform-aws-static-website">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
 
 ---
 
